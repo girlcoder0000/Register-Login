@@ -1,0 +1,46 @@
+{
+    "register":{
+        "title": "نام سایت",
+        "introMessage":"جهت استفاده از ویژگی های نام سایت ثبت نام کنید",
+        "register":"ثبت نام کنید",
+        "mobile":"موبایل",
+        "password":"رمز عبور",
+        "RepeatPassword":"تکرار رمز عبور",
+        "alreadyRegistered":"قبلا ثبت نام کرده اید؟",
+        "signin":"وارد شوید",
+        "saving":"در حال ذخیره اطلاعات...",
+        "successOperation":"عملیات با موفقیت انجام شد. به صفحه ورود منتقل می شوید",
+        "validation":{
+            "mobileRequired": "موبایل الزامی است",
+            "mobileLength":"شماره موبایل باید 11 کاراکتر باشد",
+            "passwordRequred":"رمز عبور الزامی است",
+            "repeatPasswordRequired":"تکرار رمز عبور الزامی است",
+            "passwordError":"رمز عبور باید بین 6 تا 12 کارکاکتر باشد و شامل یک عدد و یک حرف کوچک و بزرگ و یک کاراکتر خاص باشد"
+           , "DuplicateUserName":"نام کاربری قبلا توسط کاربر دیگری ثبت شده است"
+        }
+    },
+    "login":{
+        "title":"نام سایت",
+        "introMessage":"جهت ورود الزامی است از طریق موبایل و رمز عبور خود اقدام کنید",
+        "signingin":"در حال ورود...",
+        "signin":"وارد شوید",
+        "register":"ثبت نام کنید",
+        "mobile":"موبایل",
+        "password":"رمز عبور",
+        "areNotRegistered":"ثبت نام کرده اید؟",
+        "validation":{
+            "mobileRequired":"موبایل الزامی است",
+            "passwordRequred":"رمز عبور الزامی است",
+            "IncorrectUserNameOrPassword":"موبایل یا رمزعبور صحیح نمی باشد"
+                    }
+            },
+            "language":{
+                "persian":"فارسی",
+                "English":"انگلیسی"
+            }
+            ,
+            "button":{
+                "login":"وارد شوید",
+                "logout":"خارج شوید"
+            }
+}

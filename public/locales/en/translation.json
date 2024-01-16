@@ -1,0 +1,46 @@
+{
+    "register":{
+        "title": "website Name",
+        "introMessage":"Register to use the features of websiteName",
+        "register":"Register",
+        "mobile":"Mobile",
+        "password":"password",
+        "RepeatPassword":"RepeatPassword",
+        "alreadyRegistered":"Already registered?",
+        "signin":"sign in ",
+        "saving":"saving...",
+        "successOperation":"User registered successfully",
+        "validation":{
+            "mobileRequired": "Mobile is required",
+            "mobileLength":"mobile number must be 11 digits",
+            "passwordRequred":"Password is requred",
+            "repeatPasswordRequired":"Password is requred",
+            "passwordError":"password must be beetwen 8 and 16 charactor and must have 1 uppercase and lower case and special charactor"
+
+          ,  "DuplicateUserName":"This username is already taken"
+        }
+    },
+    "login":{
+        "title":"website Name",
+        "introMessage":"To log in, you need to use your monile phone and password",
+        "signingin":"signing in...",
+        "signin":"sign in ",
+        "register":"Register",
+        "mobile":"Mobile",
+        "password":"password",
+        "areNotRegistered":"your not registered?",
+        "validation":{
+            "mobileRequired":"Mobile is required",
+            "passwordRequred":"Password is requred",
+            "IncorrectUserNameOrPassword":"The username or password is incorrect"
+        }
+    },
+    "language":{
+        "persian":"persian",
+        "English":"English"
+    },
+    "button":{
+        "login":"login",
+        "logout":"logOut"
+    }
+}
