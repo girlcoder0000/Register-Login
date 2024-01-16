@@ -3,7 +3,7 @@
 - form with react-hook-form
 - validation form with yup
 - used react-router-dom and routeAction
-  
+  <img width="549" alt="register" src="https://github.com/girlcoder0000/Register-Login/assets/149330352/9defb34d-9d08-4a95-bf55-570a2c89a98c">
 ## Install dependencies:
 1- npm install
 ## Run the application:
